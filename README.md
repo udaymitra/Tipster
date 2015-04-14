@@ -14,7 +14,9 @@ Completed user stories:
  
 Notes:
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+In my application for the course, I accidentally used my work github user name (umantripragada)
+
+Please use this github user name (udaymitra) for my application (email:udaymitra4u@gmail.com)
 
 Walkthrough:
 
