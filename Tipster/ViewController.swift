@@ -98,6 +98,8 @@ class ViewController: UIViewController {
             UIView.animateWithDuration(0.2, animations: {
                 self.billAmountField.frame.origin.y = 80
                 self.tipPercentSegmentControl.hidden = false
+                // results view is the backdrop div with a darker color
+                // if we hide this, then user cant see the text written on the div
                 self.resultsView.hidden = false
             })
         } else {
