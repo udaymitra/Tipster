@@ -18,6 +18,7 @@ In my application for the course, I accidentally used my work github user name (
 
 Please use this github user name (udaymitra) for my application (email:udaymitra4u@gmail.com)
 
+
 Walkthrough:
 
 ![Tipster](https://github.com/udaymitra/Tipster/blob/master/demo.gif)
