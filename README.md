@@ -17,4 +17,5 @@ Notes:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
 Walkthrough:
-![Tipster|250](https://github.com/udaymitra/Tipster/blob/master/demo.gif)
+
+!(https://github.com/udaymitra/Tipster/blob/master/demo.gif)
