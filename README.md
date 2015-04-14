@@ -18,4 +18,4 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough:
 
-!(https://github.com/udaymitra/Tipster/blob/master/demo.gif)
+![Tipster](https://github.com/udaymitra/Tipster/blob/master/demo.gif)
